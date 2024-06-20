@@ -1,0 +1,1 @@
+export const BLOG_KEY = "BLOG_KEY"
